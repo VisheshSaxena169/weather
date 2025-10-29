@@ -20,7 +20,7 @@ A simple React app that shows current weather for any city using Open-Meteo API.
 3. Open http://localhost:5173
 
 ## Live demo
-Add your CodeSandbox / StackBlitz link here.
+weather-eosin-kappa.vercel.app
 
 ## Notes
 - Weather codes mapping in `src/utils/weatherUtils.js`
